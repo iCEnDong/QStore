@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bai_cai_dou_fu.jpg</file>
+        <file>images/bai_zhuo_xia.jpg</file>
+        <file>images/bao_chao_niu_du.jpg</file>
+        <file>images/dan_chao_fan.jpg</file>
+        <file>images/gan_bian_si_ji_dou.jpg</file>
+        <file>images/gan_guo_bao_cai.jpg</file>
+        <file>images/hong_shao_rou.jpg</file>
+        <file>images/hong_shao_yu.jpg</file>
+        <file>images/ji_wei_jiu.jpg</file>
+        <file>images/jiao_hua_ji.jpg</file>
+        <file>images/ke_le.jpg</file>
+        <file>images/kong_xin_cai.jpg</file>
+        <file>images/kou_shui_ji.jpg</file>
+        <file>images/ma_po_dou_fu.jpg</file>
+        <file>images/mi_fan.jpg</file>
+        <file>images/niu_rou.jpg</file>
+        <file>images/pai_huang_gua.jpg</file>
+        <file>images/pi_jiu.jpg</file>
+        <file>images/qing_zheng_da_zha_xie.jpg</file>
+        <file>images/rou_si_chao_fen.jpg</file>
+        <file>images/shui_guo_pin_pan.jpg</file>
+        <file>images/suan_rong_sheng_hao.jpg</file>
+        <file>images/tang_cu_pai_gu.jpg</file>
+        <file>images/wu_ji_tang.jpg</file>
+        <file>images/xi_hong_shi_dan_tang.jpg</file>
+        <file>images/xiao_long_xia.jpg</file>
+        <file>images/yang_rou_huo_guo.jpg</file>
+        <file>images/yu_xiang_dou_fu.jpg</file>
+        <file>images/zhu_du_tang.jpg</file>
+        <file>images/hong_shao_shi_zi_tou.jpg</file>
+        <file>icons/search.png</file>
+    </qresource>
+</RCC>
